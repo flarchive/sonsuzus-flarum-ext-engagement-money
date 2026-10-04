@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of sonsuzus/flarum-ext-engagement-money.** Not for installation: use [Packagist](https://packagist.org/packages/sonsuzus/flarum-ext-engagement-money) or the [upstream repository](https://github.com/sonsuzus/flarum-ext-engagement-money).
 
-**0** versions archived · Latest: [`v1.3.1`](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^1.8`
+**5** versions archived · Latest: [`v1.3.1`](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-03-06 | `^1.8` | [Browse](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-03-07 | `^1.8` | [Browse](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.1.0) |
+| `v1.2.0` | 2026-03-08 | `^1.8` | [Browse](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.2.0) |
+| `v1.3.0` | 2026-03-08 | `^1.8` | [Browse](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.3.0) |
+| `v1.3.1` | 2026-03-10 | `^1.8` | [Browse](https://github.com/flarchive/sonsuzus-flarum-ext-engagement-money/tree/archive/v1.3.1) |
 
 Catalog entry: [packages/sonsuzus-flarum-ext-engagement-money.json](https://github.com/flarchive/archive-index/blob/main/packages/sonsuzus-flarum-ext-engagement-money.json)
 
